@@ -1,3 +1,4 @@
 # exercise
 # git branch
-＃new edit
+* new edit
+* another edit
